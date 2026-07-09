@@ -1,0 +1,7 @@
+nidaqmx
+matplotlib
+cutie
+numpy
+pandas
+watchdog
+pyodbc
